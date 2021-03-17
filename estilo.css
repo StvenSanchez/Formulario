@@ -1,0 +1,87 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.registro {
+
+    width: 400px;
+    background-color: rgb(60, 60, 153);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 8px;
+    font-family: 'calibri';
+    color: white;
+
+
+
+}
+
+.registro h4 {
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 22px;
+    text-align: center;
+    
+}
+
+.controles {
+
+    width: 80%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background-color: rgb(61, 61, 139);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    margin-bottom: 15px;
+    border:1px solid snow;
+    font-size: 16px;
+
+
+}
+
+.registro p {
+    height: 40px;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    line-height: 40px;
+}
+
+.registro a {
+
+    color: snow;
+    text-decoration: none;
+
+}
+
+.registro a :hover {
+
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
+    
+    
+}
+
+.registro .boton {
+
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    background: rgb(75, 121, 167);
+    color: rgb(255, 246, 246);
+    border-radius: 8px;
+    border: none;
+    padding: 15px;
+    font-size: 15px;
+    
+
+
+}
+
+
